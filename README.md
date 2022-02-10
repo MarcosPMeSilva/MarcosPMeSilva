@@ -1,5 +1,5 @@
 
-## Oiii eu sou a Marcos Monteiro, Analiste e Desenvolvedor de Sistemas!😃💥
+## Oiii eu sou a Marcos Monteiro, Analista e Desenvolvedor de Sistemas!😃💥
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosPMeSilva&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
